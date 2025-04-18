@@ -1,0 +1,11 @@
+body { 
+  background-image: url('/src/assets/background.jpg');
+  background-size: cover;
+  background-position: center;
+    background-attachment: fixed;
+    color: white;
+  }
+ 
+  
+button { cursor: pointer; background: #3498db; color: white; border: none; padding: 10px 15px; border-radius: 5px; }
+button:hover { background: #2980b9; }

@@ -1,2 +1,2 @@
-# static_malware
+# static_malware analysis 
  
